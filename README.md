@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Preview](./src/img/preview.png)
 Praktik to create simple form and multistep form with react.
 
 ## Available Scripts
